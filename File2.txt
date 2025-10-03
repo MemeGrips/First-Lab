@@ -1,1 +1,3 @@
-Changes2 Changes3
+ HEAD
+Changes2 
+ parent of bbd0b21 (Изменили инфу в файлах)
